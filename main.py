@@ -1,4 +1,4 @@
-def main(number):
+def main01(number):
 
     answer = 0
 
@@ -16,9 +16,9 @@ def main(number):
 
     return answer
 
-print(main(7777))
+print(main01(7777))
 
-def main(number):
+def main02(number):
 
     answer = 0
 
@@ -35,9 +35,9 @@ def main(number):
 
     return answer
 
-print(main(9879))
+print(main02(9879))
 
-def main(number):
+def main03(number):
 
     counter = 0
 
@@ -59,9 +59,9 @@ def main(number):
 
     return counter
 
-print(main(8888))
+print(main03(8888))
 
-def main(number):
+def main04(number):
 
     sum_odd = 0
 
@@ -83,9 +83,9 @@ def main(number):
 
     return sum_odd
 
-print(main(7485))
+print(main04(7485))
 
-def main(number):
+def main05(number):
 
     sum_even = 0
 
@@ -107,4 +107,4 @@ def main(number):
 
     return sum_even
 
-print(main(4874))
+print(main05(4874))
